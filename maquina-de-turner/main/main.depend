@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567550071 source:c:\users\elthon\desktop\projeto compiladores\máquina de turner\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
